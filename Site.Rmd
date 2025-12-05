@@ -22,8 +22,9 @@ Bom, o motivo é bem simples e dá pra ser resumido em uma lista.
 **2:** porque estou com bastante tempo livre (nunca quis tanto parar de ser vagabundo *-não tenho dinheiro pra comprar nem uma zorba-*)  
 **3:** por que eu quero ser a versão piauiense desse cara:  
   
-![Um dos caras mais fodas do mundo (depois do chorão do Charlie Brown JR, claro)](imgs/marx.jpg){width=35%}  
-
+<div style="text-align: center;">
+![Um dos caras mais fodas do mundo (depois do chorão do Charlie Brown JR, claro)](imgs/marx.jpg){width=35%} </div> 
+  
 <audio controls>
   <source src="auds/bliimm.mp3" type="audio/mpeg">
   Seu navegador não suporta áudio.
