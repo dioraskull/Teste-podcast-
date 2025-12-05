@@ -5,6 +5,15 @@ date: "2025-12-03"
 output: html_document
 ---
 
+<style>
+/* centralizar todas as imagens */
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
 # Por que eu quero fazer esse podcast?
 
 Bom, o motivo é bem simples e dá pra ser resumido em uma lista.
@@ -12,5 +21,10 @@ Bom, o motivo é bem simples e dá pra ser resumido em uma lista.
 **1:** porque eu acho legal a ideia  
 **2:** porque estou com bastante tempo livre (nunca quis tanto parar de ser vagabundo *-não tenho dinheiro pra comprar nem uma zorba-*)  
 **3:** por que eu quero ser a versão piauiense desse cara:  
-![Marx](imgs/marx.jpg){width=25%}
+  
+![Um dos caras mais fodas do mundo (depois do chorão do Charlie Brown JR, claro)](imgs/marx.jpg){width=35%}  
 
+<audio controls>
+  <source src="auds/bliimm.mp3" type="audio/mpeg">
+  Seu navegador não suporta áudio.
+</audio>
